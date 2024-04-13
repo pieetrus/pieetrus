@@ -1,6 +1,6 @@
 ## 👋 Introduction
 
-<img align='right' src='img\logo.png' style="margin-left: 20px;" width='160'>
+<!-- <img align='right' src='img\logo.png' style="margin-left: 20px;" width='160'> -->
 
 Hi guys, I'm Jakub Pietrus. I am a **Software engineer** from Wrocław, Poland. I'm currently working in **RITS** as a C# Cloud Developer.  
 I have some works with **.NET/C#**, **Next.Js**, **Typescript/Javascript** and **Azure**, contact me if you have same interesting or some questions!
