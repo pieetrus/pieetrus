@@ -13,7 +13,7 @@ I have some works with **.NET/C#**, **Next.Js**, **Typescript/Javascript** and *
 
 - [**RITS | VIESSMANN**](https://wibutler-iot.com/): Creating Cloud IoT platform for smart building solutions.
 - [**PULS BASKETU**](https://pulsbasketu.com): Working on creation advanced basketball statistics analysis.
-- [**PORTFOLIO WEBSITE**](https://jpietrus.com): Creating my portfolio website in order to present my skills and projects.
+- [**PORTFOLIO WEBSITE**](https://jpietrus.vercel.app): Creating my portfolio website in order to present my skills and projects.
 
 [0]: https://www.linkedin.com/in/jakubpietrus
 [1]: https://stackoverflow.com/users/13100727/jakub-pietrus
