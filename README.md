@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**pieetrus/pieetrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakubpietrus/)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Fullstack .NET Developer with **6+ years** of experience specializing in **.NET, Azure Cloud, and IoT architectures**. Currently working on modernizing enterprise HR system and migrating legacy monoliths into DDD-oriented microservices.
+
+- Interested in designing scalable solutions and event-driven systems.  
+- Deeply integrated with Azure
+
+---
+
+## Tech Stack
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Currently exploring**: Database Internals • Bicep
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakubpietrus/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietrusjakub@gmail.com)
+
+---
+
+<div align="center">
+  
+<a href="https://github.com/pieetrus">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pieetrus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/pieetrus">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pieetrus&layout=normal&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css"/>
+</a>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pieetrus&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
