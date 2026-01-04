@@ -1,3 +1,13 @@
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakubpietrus/)
+
+[![Strava](https://badges.strava.com/logo-strava.png)](https://strava.com/athletes/196621064)
+
+</div>
+
+
 ## About Me
 
 Fullstack .NET Developer specializing in **.NET, Azure Cloud, and designing scalable cloud solutions**. Currently working on modernizing enterprise HR system and migrating legacy monoliths into DDD-oriented microservices.
