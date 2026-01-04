@@ -1,18 +1,6 @@
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakubpietrus/)
-
-</div>
-
 ## About Me
 
-Fullstack .NET Developer with **6+ years** of experience specializing in **.NET, Azure Cloud, and IoT architectures**. Currently working on modernizing enterprise HR system and migrating legacy monoliths into DDD-oriented microservices.
-
-- Interested in designing scalable solutions and event-driven systems.  
-- Deeply integrated with Azure
-
----
+Fullstack .NET Developer specializing in **.NET, Azure Cloud, and designing scalable cloud solutions**. Currently working on modernizing enterprise HR system and migrating legacy monoliths into DDD-oriented microservices.
 
 ## Tech Stack
 
@@ -26,21 +14,16 @@ Fullstack .NET Developer with **6+ years** of experience specializing in **.NET,
 
 **Currently exploring**: Database Internals • Bicep
 
----
 
 <div align="center">
-  
-<a href="https://github.com/pieetrus">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pieetrus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/pieetrus">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pieetrus&layout=normal&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css"/>
-</a>
-
+  <a href="https://github.com/pieetrus">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pieetrus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/pieetrus">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pieetrus&layout=normal&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css"/>
+  </a>
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pieetrus&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pieetrus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
