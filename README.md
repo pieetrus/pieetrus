@@ -22,7 +22,7 @@ Fullstack .NET Developer specializing in **.NET, Azure Cloud, and designing scal
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**Currently exploring**: Database Internals • Bicep
+**Currently exploring**: Event sourcing
 
 
 <div align="center">
