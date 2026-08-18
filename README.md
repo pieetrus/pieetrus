@@ -1,13 +1,3 @@
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakubpietrus/)
-
-[![Strava](https://badges.strava.com/logo-strava.png)](https://strava.com/athletes/196621064)
-
-</div>
-
-
 ## About Me
 
 Fullstack .NET Developer specializing in **.NET, Azure Cloud, and designing scalable cloud solutions**. Currently working on modernizing enterprise HR system and migrating legacy monoliths into DDD-oriented microservices.
@@ -23,17 +13,3 @@ Fullstack .NET Developer specializing in **.NET, Azure Cloud, and designing scal
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 **Currently exploring**: Event sourcing
-
-
-<div align="center">
-  <a href="https://github.com/pieetrus">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pieetrus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/pieetrus">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pieetrus&layout=normal&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pieetrus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
